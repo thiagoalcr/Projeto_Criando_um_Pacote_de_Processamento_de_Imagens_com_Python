@@ -22,10 +22,10 @@ pip install image_processing
 ```
 
 ## Usage
-
+```
 from package_name.module1_name import file1_name
 file1_name.my_function()
-
+```
 ## Author
 
 Thiago Alencar
