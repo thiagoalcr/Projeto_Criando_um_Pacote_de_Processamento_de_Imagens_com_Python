@@ -1,4 +1,4 @@
-# image_processing
+# Image Processing - (Project Challenge)
 
 Description. 
 The package image_processing is used to:
