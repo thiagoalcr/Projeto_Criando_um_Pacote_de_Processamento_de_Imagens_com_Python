@@ -9,9 +9,10 @@ with open("requirements.txt") as f:
 setup(
     name="image_processing",
     version="0.0.1",
-    author="Thiago Alencar",
+    author="Karina Kato",
+    project_challenge_by="Thiago Alencar",
     description="Image Processing Package using Skimage",
-    long_description=page_description,
+    long_description="https://github.com/thiagoalcr/Projeto_Criando_um_Pacote_de_Processamento_de_Imagens_com_Python/tree/main",
     long_description_content_type="text/markdown",
     url="https://github.com/thiagoalcr/simple-package-template.git",
     packages=find_packages(),
