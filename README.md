@@ -19,14 +19,15 @@ The package image_processing is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install image_processing
+pip install package_name
 ```
 
 ## Usage
-```
-from package_name.module1_name import file1_name
+```python
+from package_name import file1_name
 file1_name.my_function()
 ```
+
 ## Author
 
 Karina Kato
